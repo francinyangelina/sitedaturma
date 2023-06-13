@@ -39,7 +39,7 @@
 }
 
 .técnico-div-conteudo{
-     width: 95%;
+    width: 95%;
 }
 
 .técnico-titulo{
@@ -105,6 +105,37 @@ body{
      color: black;
 }
 
-.historia-colegio{
-     width: 95%;
+#fotos-escola{
+     background-image: linear-gradient(#C2EDF0, #C0EDF0);
+     padding: 70px;
+     font-size: 20px ;
+     justify-content: center;
+     align-items: center;
+     color: #000000;
+}
+
+.espaço-titulo{
+     padding: 30px 0;
+     font-size: 30px;
+     text-align: center;
+}
+
+.faxada{
+     margin: 45px;
+     height: 200px;
+}
+
+.portao{
+     margin: 45px;
+     height: 200px;
+}
+
+.biblioteca{
+     margin: 45px;
+     height: 200px;
+}
+
+.patio{
+     margin: 45px;
+     height: 200px;
 }
